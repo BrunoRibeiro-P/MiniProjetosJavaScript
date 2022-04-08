@@ -1,2 +1,2 @@
 # MiniProjetosJavaScript
-Aqui irei fazer alguns miniprojetos em javascript.
+Here, i will build little projects with JavaScript.
